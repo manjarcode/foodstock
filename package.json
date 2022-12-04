@@ -1,0 +1,19 @@
+{
+  "name": "foodstock",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "13.0.6",
+    "performance-now": "^2.1.0",
+    "react": "18.2.0",
+    "react-charts": "^2.0.0-beta.7",
+    "react-dom": "18.2.0",
+    "recharts": "^2.1.16"
+  }
+}
